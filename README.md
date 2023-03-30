@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+<h1 align="center">
+    <img alt="Banner do projeto" title="Calculadora IMC" src="src/assets/banner.png" />
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2 align="center"> 
+	<p>Calculadora IMC</p>
+</h2>
 
-## Available Scripts
+<p align="center">
+    <img src="https://img.shields.io/github/followers/joaosouza7?style=social" />
+    <img src="https://img.shields.io/badge/version-1.0.0-dc3545" />
+</p>
 
-In the project directory, you can run:
+  
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 💻 Sobre o projeto
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+A proposta desse projeto foi criar uma calculadora de IMC, onde há campos para que o usuário digite seu peso e altura e a partir dessas informações é gerada uma mensagem para o usuário com o cálculo de seu IMC.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🔎 Preview do projeto
 
-### `npm run build`
+<p align="center">
+  <img alt="Preview do projeto" title="Preview do projeto" src="src/assets/preview.png" />
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🛠 Tecnologias
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+As seguintes ferramentas foram utilizadas no desenvolvimento do projeto:
 
-### `npm run eject`
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [ReactJS](https://reactjs.org/)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🚀 Como executar o projeto?
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Pré-requisitos
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node](https://nodejs.org/en). 
+Além disto é bom ter um editor para trabalhar com o código como o [VSCode](https://code.visualstudio.com/).
 
-## Learn More
+### 🎲 Rodando a aplicação
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+# Clone este repositório
+$ git clone https://github.com/joaosouza7/imc-calculator
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Acesse a pasta do projeto no terminal/cmd
+$ cd imc-calculator
 
-### Code Splitting
+# Instale as dependências do projeto
+$ yarn install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# Execute a aplicação 
+$ yarn start
 
-### Analyzing the Bundle Size
+# O servidor inciará na porta:3333
+# Acesse http://localhost:3333 
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+## 📝 Licença
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Esse projeto está sob a licença GNU. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feito com ❤️ por João Souza | [Entre em contato!](https://www.linkedin.com/in/joaosouzadesenvolvedorweb)
