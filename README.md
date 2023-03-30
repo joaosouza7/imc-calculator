@@ -2,11 +2,11 @@
     <img alt="Banner do projeto" title="Calculadora IMC" src="src/assets/banner.png" />
 </h1>
 
-<h2 align="center"> 
+<div align="center"> 
 	<p>Calculadora IMC</p>
 	<img src="https://img.shields.io/github/followers/joaosouza7?style=social" />
     	<img src="https://img.shields.io/badge/version-1.0.0-dc3545" />
-</h2> 
+</div> 
 
 ## 💻 Sobre o projeto
 
