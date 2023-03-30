@@ -4,15 +4,9 @@
 
 <h2 align="center"> 
 	<p>Calculadora IMC</p>
-</h2>
-
-<p align="center">
-    <img src="https://img.shields.io/github/followers/joaosouza7?style=social" />
-    <img src="https://img.shields.io/badge/version-1.0.0-dc3545" />
-</p>
-
-  
-
+	<img src="https://img.shields.io/github/followers/joaosouza7?style=social" />
+    	<img src="https://img.shields.io/badge/version-1.0.0-dc3545" />
+</h2> 
 
 ## 💻 Sobre o projeto
 
